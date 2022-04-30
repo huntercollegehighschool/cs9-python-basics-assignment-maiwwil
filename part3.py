@@ -6,7 +6,7 @@ There are (at least) 6 errors in this code. Fix them so that it runs properly.
 
 '''
 
-#code starts here
+#code starts
 number1 = int(input("Enter a number: "))
 number2 = int(input("Enter another number: "))
 
