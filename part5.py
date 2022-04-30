@@ -8,7 +8,7 @@ What should appear on the console when the program runs:
 
 What is your first name? Ash
 What is your last name? Ketchum
-Hello, Ash Ketchum
+Hi, Ash Ketchum
 
 '''
 string1 = input("What's your first name?: ")
